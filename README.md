@@ -12,6 +12,8 @@ We are named after Hermes a deity in ancient Greek religion and mythology.
 
 Hermes is considered the herald of the gods, as well as the protector of human heralds, travellers, thieves, merchants, and orators. He is able to move quickly and freely between the worlds of the mortal and the divine, aided by his winged sandals. [Wikipedia](https://en.wikipedia.org/wiki/Hermes)
 
+Like this deity, we are well-positioned to address the business challenge facing Sendy and we will be applying our knowledge of Machine Learning and Regression in solving this commercial issue.
+
 # More on the Sendy Challenge
 
 The solution will help Sendy enhance customer communication and improve the reliability of its service; which will ultimately improve customer experience. In addition, the solution will enable Sendy to realise cost savings, and ultimately reduce the cost of doing business, through improved resource management and planning for order scheduling.
